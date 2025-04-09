@@ -1,0 +1,23 @@
+{
+  "name": "certauth-client",
+  "version": "25.3.7",
+  "description": "Certificate Authority Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkarpati/certauth-client.git"
+  },
+  "keywords": [
+    "certificate",
+    "ssl/tls"
+  ],
+  "author": "pkarpati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkarpati/certauth-client/issues"
+  },
+  "homepage": "https://github.com/pkarpati/certauth-client#readme"
+}
